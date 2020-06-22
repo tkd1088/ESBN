@@ -1,6 +1,7 @@
 # ESBN
 Exposure-Structure Blending Network for High Dynamic Range Imaging of Dynamic Scenes
-  Sang-hoon Lee, Haesoo Chung, Nam Ik Cho
+
+Sang-hoon Lee, Haesoo Chung, Nam Ik Cho
 
 ## Introduction
 This repository provides a code for an HDR imaging algorithm and result images described in our accepted IEEE ACCESS paper.
