@@ -1,6 +1,5 @@
 # ESBN
-Exposure-Structure Blending Network for High Dynamic Range Imaging of Dynamic Scenes
-
+Exposure-Structure Blending Network for High Dynamic Range Imaging of Dynamic Scenes\
 Sang-hoon Lee, Haesoo Chung, Nam Ik Cho
 
 ## Introduction
